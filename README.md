@@ -87,10 +87,9 @@ python3 --version
 # Missing dependencies
 pip install -r requirements.txt
 ```
-
 ## 📄 License
 
-MIT License - See LICENSE file for details.
+MIT License - See [LICENSE](https://github.com/Beriwal45/CYPENT/blob/main/LICENSE) file for details.
 
 ## 👨💻 Author
 
